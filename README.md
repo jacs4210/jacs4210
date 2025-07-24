@@ -14,15 +14,15 @@ I am a DevOps Engineer with over 6 years of experience in software development a
 **Backend Developer** (3 years)
 
 - **Responsibilities**: End-to-end software development for the Smartflex product, from initial scoping to implementation and testing.
-- **Languages**: PL/SQL (ORACLE), Java, C#, JavaScript (Node.js), SQL.
+- **Languages**: PL/SQL (ORACLE), Java, C#, JavaScript (Node.js), SQL, Python (Basics).
 - **Achievements**: Built scalable and efficient solutions, maintaining system integrity and customer satisfaction.
 
 ### 🔧 Tools and Technologies
 - **DevOps**: Docker, GitLab, Jenkins, Grafana, SonarQube, CI/CD
 - **Programming Languages**: Java, C#, PL/SQL, JavaScript (Node.js), Bash
-- **Cloud**: Azure (creating and managing virtual machines)
+- **Cloud**: Learning AWS and your multiple services.
 - **Automation**: GitHub Actions (workflows), Bash-Scripting
-- **Methodologies**: Agile, SCRUM
+- **Methodologies**: Agile, Waterfall.
 
 ### 🚀 About Me
 I'm passionate about continuous improvement and delivering high-quality solutions, with a focus on collaboration, automation, and optimizing development and deployment processes. I'm constantly working to stay up-to-date with the latest DevOps and cloud trends. 
@@ -41,7 +41,8 @@ Here are some of my recent standout projects:
 
 - **[book-service](#)**: CRUD application for managing books online, currently working on DevOps practices with CI/CD using GitHub Actions, deployment in on-premise environments, and cloud deployments on Azure directly to a Virtual Machine. The goal is to increase complexity to create a robust cloud deployment architecture.
 - **[animeapp](#)**: Repository that uses scraping to obtain anime episodes from other sites and display them without ads. Worked with GitHub Actions to implement CI/CD.
-- **[sshserver-on-containers](#)**: Repository with examples of container setup with SSH server for development environments. 
+- **[sshserver-on-containers](#)**: Repository with examples of container setup with SSH server for development environments.
+- **[apuntes-python](#)**: Repository with multiples exercises and fundamentals lessons of Python. It's excellent to start.
 
 ---
 
